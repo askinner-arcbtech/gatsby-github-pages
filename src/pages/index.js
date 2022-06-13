@@ -6,7 +6,8 @@ import Layout from '../components/layout'
 const IndexPage = () => {
   return (
     <Layout pageTitle="Home Page">
-      <p>I'm making this by following the Gatsby Tutorial.</p>
+      <p>I made this site with the Gatsby Tutorial.</p>
+      <p>See above for how I built this site and links that list popular node frameworks.</p>
     </Layout>
   )
 }
